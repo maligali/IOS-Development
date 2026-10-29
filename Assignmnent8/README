@@ -29,3 +29,7 @@ A simple music player application built with Swift, UIKit, Storyboard, and AVAud
 ## Demo
 
 Screen recording: `music-player-demo.mov`
+
+## Note on Audio Files
+
+The application was tested locally with audio files, and the playback controls worked as expected. Due to technical difficulties uploading the audio assets, the audio files are not included in the current repository version. As a result, audio playback may not work when running the project from this repository.
