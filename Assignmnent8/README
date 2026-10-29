@@ -1,1 +1,31 @@
+# Music Player — UIKit
 
+A simple music player application built with Swift, UIKit, Storyboard, and AVAudioPlayer.
+
+## Features
+
+- Displays the track title, artist, and cover image.
+- Plays and pauses audio.
+- Switches to the next and previous tracks.
+- Supports track navigation with wraparound.
+- Automatically advances to the next track when playback finishes.
+- Uses UIStackView and Auto Layout for a responsive interface.
+
+## Technologies
+
+- Swift
+- UIKit
+- Storyboard
+- UIStackView
+- Auto Layout
+- AVFoundation
+
+## Screenshots
+
+### iPhone SE (3rd generation)
+
+### iPhone 16 Pro Max
+
+## Demo
+
+Screen recording: `music-player-demo.mov`
