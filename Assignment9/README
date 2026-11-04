@@ -1,1 +1,50 @@
+# FavoritesBooks 📚
+
+## About the Project
+
+FavoritesBooks is a simple iOS application developed using Swift and UIKit. The app displays a collection of 20 favorite books in a scrollable list.
+
+Each book contains:
+- Book title
+- Author and genre
+- Cover image
+- Personal rating displayed with stars
+
+## Features
+
+- Displays 20 classic and contemporary literary works.
+- Custom table view cells created using Storyboard.
+- Book cover images stored in `Assets.xcassets`.
+- Ratings displayed using filled and empty stars.
+- Scrollable interface built with `UITableView`.
+
+## Technologies Used
+
+- Swift
+- UIKit
+- Xcode
+- Storyboard
+- Auto Layout
+- UITableView
+- UIStackView
+- UIImageView
+- UILabel
+
+## Project Structure
+
+```text
+FavoritesBooks/
+├── AppDelegate.swift
+├── SceneDelegate.swift
+├── ViewController.swift
+├── FavoriteItem.swift
+├── FavoriteCell.swift
+├── Main.storyboard
+├── Assets.xcassets/
+│   ├── book01.imageset/
+│   ├── book02.imageset/
+│   └── ...
+├── Info.plist
+└── FavoritesBooks.xcodeproj
+```
 
